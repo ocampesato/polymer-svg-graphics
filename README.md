@@ -4,6 +4,7 @@ polymer-svg-graphics
 A collection of SVG-based graphics code samples using Polymer
 
 Perform the following steps:
+
 1) install bower
 
 2) 'cd' to the directory with the code samples
