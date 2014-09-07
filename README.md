@@ -16,5 +16,5 @@ Perform the following steps:
 
 5) nagivate to localhost:8080
 
-6) double click on files with a "Poly" prefix
+6) double click on files without a "Poly" prefix
  
