@@ -54,8 +54,6 @@
          
              var transform = "skewX("+(-angle%50)+")";
 
-             // append an (x,y) pair of values that
-             // represent the upper-left vertex 
              shapes.push({cx:currentX,  cy:currentY, 
                           rx:angle%majorAxis, ry:angle%minorAxis, 
                           tr:transform, fill:colors[index%colors.length]});
